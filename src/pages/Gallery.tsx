@@ -10,7 +10,7 @@ import flag from '../assets/flag love.JPG';
 import kamawal from '../assets/kamawal.JPG';
 import lovetoflag from '../assets/love to flag.JPG';
 import mashal from '../assets/5.jpg';
-import qandari from '../assets/qandahari.jpg';
+import qandari from '../assets/qandahari.JPG';
 import award from '../assets/award.jpg';
 import trip from '../assets/vip/triptogether.jpeg';
 import sport from '../assets/vip/sport2.jpeg';
