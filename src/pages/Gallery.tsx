@@ -8,7 +8,7 @@ import springCollective from '../assets/spring collective.JPG';
 import enjoy from '../assets/enjoy.jpg';
 import flag from '../assets/flag love.jpg';
 import kamawal from '../assets/kamawal.jpg';
-import lovetoflag from '../assets/love to flag.jpg';
+import lovetoflag from '../assets/love to flag.JPG';
 import mashal from '../assets/5.jpg';
 import qandari from '../assets/qandahari.jpg';
 import award from '../assets/award.jpg';
