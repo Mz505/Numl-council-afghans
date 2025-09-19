@@ -4,7 +4,7 @@ import { X, ChevronLeft, ChevronRight, Play, Pause } from 'lucide-react';
 import springfestival from '../assets/spring turkey.jpeg';
 import together from '../assets/supportive moments2.JPG';
 import cheers from '../assets/enjoy2.jpg';
-import springCollective from '../assets/spring collective.jpg';
+import springCollective from '../assets/spring collective.JPG';
 import enjoy from '../assets/enjoy.jpg';
 import flag from '../assets/flag love.jpg';
 import kamawal from '../assets/kamawal.jpg';
